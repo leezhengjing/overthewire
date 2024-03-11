@@ -9,3 +9,5 @@ Skills/Tools needed:
 What I did:
 1. Read the linux manual on ssh
 2. Used the command `ssh bandit.labs.overthewire.org -p 2220 -l bandit0` to connect to the server
+
+![alt text](level0.png)
